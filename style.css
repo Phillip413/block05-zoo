@@ -1,0 +1,14 @@
+h1{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight:5000px;
+  font-style: oblique;
+  font-size: xx-large;
+  background-color: chocolate;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2{
+  font-size: larger;
+  text-decoration: underline;
+}
